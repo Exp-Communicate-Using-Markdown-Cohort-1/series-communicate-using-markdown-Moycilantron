@@ -5,3 +5,8 @@
 ## This is a code example
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+## This is an example for a task list
+- [X] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
